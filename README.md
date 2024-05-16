@@ -1,1 +1,1 @@
-This is a simple project from a web dev course on Udemy.
+This is a simple project for a web dev course on Udemy.
